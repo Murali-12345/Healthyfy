@@ -22,9 +22,10 @@ Designed with simplicity, performance, and a modern UI in mind.
 
 ### Main Screens
 
-| ![](Healthyfy/assets/screenshots/home.png) |
+| ![](healthyfy/assets/screenshots/home.png) |
 
-| ![](assets/screenshots/cart.png) | ![](assets/screenshots/profile.png) | ![](assets/screenshots/register.png) |
+
+| ![](healthyfy/assets/screenshots/cart.png) | ![](healthyfy/assets/screenshots/profile.png) | ![](healthyfy/assets/screenshots/register.png) |
 
 ---
 
