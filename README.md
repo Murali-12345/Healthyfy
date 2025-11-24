@@ -12,10 +12,7 @@ Designed with simplicity, performance, and a modern UI in mind.
 -  **Add to Cart** — Simple and intuitive cart management  
 -  **Search Functionality** — Quickly find items  
 -  **Favorites** — Save frequently bought items  
--  **Dark & Light Mode**  
 -  **Responsive UI** across all screen sizes  
--  **Firebase Authentication** *(optional)*  
--  **Cloud Firestore / Local Storage** *(depending on your setup)*
 
 ---
 
