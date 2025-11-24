@@ -22,12 +22,8 @@ Designed with simplicity, performance, and a modern UI in mind.
 
 ### Main Screens
 
-| ![](assets/screenshots/home.png) |
+| ![](Healthyfy/assets/screenshots/home.png) |
 
-### Additional Screens
-
-| Product | Checkout | Login |
-|--------|----------|--------|
 | ![](assets/screenshots/cart.png) | ![](assets/screenshots/profile.png) | ![](assets/screenshots/register.png) |
 
 ---
